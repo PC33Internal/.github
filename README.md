@@ -1,3 +1,3 @@
-# Test
+#.github
 
-## Test2
+This repository contains the public [Organization README.md](./profile/README.md).
